@@ -1,0 +1,17 @@
+body{
+ text-decoration: none;
+ background-color: #152238;
+ color: white;
+ 
+ 
+
+}
+img{
+    height: 250px;
+    width: 250px;
+    padding-left: 40%;
+  
+}
+p{
+    font-weight: bold;
+}
